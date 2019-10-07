@@ -9,7 +9,7 @@
 <br>
 
 # 2. 데이터
- - 데이터 : 캐글 및 자유
+ - 데이터 : [캐글](https://www.kaggle.com/harishcscode/all-news-articles-from-home-page-media-house) 및 자유
 
 <br>
 <hr>
