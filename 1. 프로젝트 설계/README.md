@@ -26,6 +26,6 @@
 <br>
 
 # 4. 10월 28일 까지
- - [하이퍼 파라미터 튜닝](https://coredottoday.github.io/2018/09/17/%EB%AA%A8%EB%8D%B8-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%ED%8A%9C%EB%8B%9D/)
+ - [X] [하이퍼 파라미터 튜닝](https://coredottoday.github.io/2018/09/17/%EB%AA%A8%EB%8D%B8-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%ED%8A%9C%EB%8B%9D/)
  - [X] [정확도 계산하기](http://www.engear.net/wp/topic-modeling-gensimpython/)
  - [키워드 시각화하기](http://www.engear.net/wp/topic-modeling-gensimpython/)
